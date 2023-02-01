@@ -1,4 +1,4 @@
 # BackfliptAssignments
-this repo contains all the assignments done during training programme
+this repo contains all the assignments done during training program
 
 
